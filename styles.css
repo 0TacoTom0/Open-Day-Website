@@ -9,7 +9,7 @@ html {
 
 nav{
     height: 80px;
-
+    
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -21,7 +21,7 @@ nav div{
     margin: 0 15px;
 }
 
-nav div img{
+nav img{
     width: 76px;
     height: 44px;
 }
